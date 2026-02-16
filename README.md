@@ -2,10 +2,10 @@
 
 <div align="center">
   
-  <b>Olá, mundo!</b>
+  <b>Olá, mundo!👾</b>
   <samp>
       <br>
-      <b>Sejam bem vindos ao meu perfil!</b>
+      <b>Fique à vontade para bisbilhotar!</b>
   </samp>
 </div>
 
@@ -14,6 +14,7 @@
 </div>
 
 <div align="center">
+  <h3>Minhas tecnologias:</h3>
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.simpleicons.org/html5/555184" />
   <img alt="CSS" title="CSS" width="40px" src=https://cdn.simpleicons.org/css/555184" />
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.simpleicons.org/javascript/555184" />
@@ -21,6 +22,7 @@
   <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.simpleicons.org/mysql/555184" />
   <img alt="Java" title="Java" width="40px" src="https://img.icons8.com/ios-filled/50/7950F2/java-coffee-cup-logo--v1.png" />
   <img alt="Git" title="Git" width="40px" src="https://cdn.simpleicons.org/git/555184" />
+</div>
 
 <br>
 <br>
