@@ -10,7 +10,8 @@
 </div>
 
 <div align="center" width="100%">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=16&pause=1000&color=9997BC&width=435&lines=Eu+sou+uma+estudante+de+Desenvolvimento+de+Software" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=16&pause=1000&color=9997BC&width=435&lines=Sou+uma+estudante+de+Desenvolvimento+de+Software" 
+alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
