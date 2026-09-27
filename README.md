@@ -38,4 +38,16 @@ alt="Typing SVG" /></a>
 
 </div>
 
+---
+<div>
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofia-jorge/sofia-jorge/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sofia-jorge/sofia-jorge/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sofia-jorge/sofia-jorge/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=555184&section=footer"/>
